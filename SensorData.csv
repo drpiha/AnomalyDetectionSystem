@@ -1,4 +1,4 @@
-Zeitstempel;B6 Delta SAK;Ozone concentration in product gas;SAK 254 inlet (scan);SAK 254 outlet (scan);UV intensity;Filter 1 - Turbidity;Filter 2 - Turbidity;Filter 1 - Pressure loss;Filter 2 - Pressure loss
+Timestamp;OrganicLoad;OzoneLevel;InletQuality;OutletQuality;UVIntensity;InletTurbidity;OutletTurbidity;InletPressure;OutletPressure
 02.11.2023 10:20;26,03;63,7;13,9;9,1;35,339;0,38;0;352;256
 02.11.2023 10:25;45,6;100,3;23,6;12,8;52,657;0,59;1;435;411
 02.11.2023 10:30;45,89;100,3;23,6;12,7;52,657;0,59;1;446;411
